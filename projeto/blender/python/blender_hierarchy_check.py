@@ -2,7 +2,7 @@ import bpy
 import json
 import os
 
-filepath = bpy.path.abspath("//json/metarig.json")
+filepath = bpy.path.abspath("//metarig_rig.json")
 
 obj = bpy.context.active_object
 

@@ -220,3 +220,7 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 /projeto/Models
+
+
+/projeto/.venv311
+/projeto/runs

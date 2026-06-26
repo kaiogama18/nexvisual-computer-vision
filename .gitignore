@@ -225,3 +225,6 @@ __marimo__/
 /projeto/.venv311
 /projeto/runs
 /projeto/PD
+modulos/Modulo_03/M3A6/sam_b.pt
+modulos/Modulo_03/M3A5/yolo11n.pt
+modulos/Modulo_03/M3A6/yolo11n-seg.pt

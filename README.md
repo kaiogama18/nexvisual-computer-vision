@@ -49,4 +49,53 @@ Módulos
 - PyTorch
 - Jupyter Notebook
 
+# Projeto 1 – Extração de Movimento para Blender
 
+## Objetivo
+
+Extrair os movimentos de uma pessoa a partir de um vídeo e converter essas informações em uma animação que possa ser utilizada no Blender.
+
+## Fluxo do Projeto
+
+1. Processar um vídeo para detectar a pose humana quadro a quadro.
+2. Extrair as coordenadas das articulações (keypoints).
+3. Gerar um arquivo no formato **JSON** contendo toda a sequência da animação.
+4. Importar o arquivo JSON no Blender.
+5. Criar automaticamente o esqueleto (Armature).
+6. Aplicar as animações ao esqueleto utilizando os dados do JSON.
+
+## Resultado Esperado
+
+* Extração automática de movimentos humanos.
+* Arquivo JSON compatível com o pipeline do Blender.
+* Geração automática do rig e da animação.
+* Facilidade para reutilizar movimentos em diferentes personagens.
+
+
+# Projeto 2 – Detecção de Buracos em Ruas
+
+## Objetivo
+
+Treinar um modelo de Inteligência Artificial capaz de detectar buracos em vias públicas e utilizá-lo em tempo real em dispositivos Android.
+
+## Fluxo do Projeto
+
+1. Coletar e organizar um conjunto de imagens contendo ruas com e sem buracos.
+2. Treinar um modelo de detecção de objetos.
+3. Validar o desempenho do modelo.
+4. Converter o modelo treinado para o formato **TensorFlow Lite (Float16)**.
+5. Gerar o arquivo:
+
+```
+best_float16.tflite
+```
+
+6. Integrar o modelo ao aplicativo Android.
+7. Utilizar a câmera do dispositivo para detectar buracos em tempo real.
+
+## Resultado Esperado
+
+* Modelo otimizado para dispositivos móveis.
+* Inferência em tempo real utilizando a câmera.
+* Baixo consumo de memória e processamento.
+* Arquivo `.tflite` pronto para implantação em aplicações Android.

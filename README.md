@@ -76,7 +76,7 @@ Extrair os movimentos de uma pessoa a partir de um vídeo e converter essas info
 
 ## Objetivo
 
-Treinar um modelo de Inteligência Artificial capaz de detectar buracos em vias públicas e utilizá-lo em tempo real em dispositivos Android.
+Treinar um modelo capaz de detectar buracos em vias públicas e utilizá-lo em tempo real em dispositivos Android.
 
 ## Fluxo do Projeto
 

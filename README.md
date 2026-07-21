@@ -71,9 +71,9 @@ Extrair os movimentos de uma pessoa a partir de um vídeo e converter essas info
 * Geração automática do rig e da animação.
 * Facilidade para reutilizar movimentos em diferentes personagens.
 
-  
+https://github.com/user-attachments/assets/2431213c-36c9-4586-a03f-8c912ddccff9
 
-https://github.com/user-attachments/assets/cbe6e55f-4dc4-457d-bacf-d6017afe7e08
+
 
 
 

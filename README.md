@@ -71,6 +71,12 @@ Extrair os movimentos de uma pessoa a partir de um vídeo e converter essas info
 * Geração automática do rig e da animação.
 * Facilidade para reutilizar movimentos em diferentes personagens.
 
+  
+
+https://github.com/user-attachments/assets/cbe6e55f-4dc4-457d-bacf-d6017afe7e08
+
+
+
 
 # Projeto 2 – Detecção de Buracos em Ruas
 
